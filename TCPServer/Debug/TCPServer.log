@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\prywatne\github\tcpserver\tcpserver\main.cpp(8): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  TCPClient.cpp
+  TCPServer.cpp
+  Generating Code...
+  TCPServer.vcxproj -> D:\Prywatne\GITHUB\TCPServer\Debug\TCPServer.exe
